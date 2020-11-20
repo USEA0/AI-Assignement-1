@@ -1,1 +1,1 @@
-AI Assignement 1
+AI Assignment 1
